@@ -1,6 +1,6 @@
-### Hi there 👋
+### Strolling down hell of programming languages
 
-![](https://i.gifer.com/XOsX.gif)
+![](https://i.imgur.com/0kvtMLE.gif)
 <!--
 **dumbgoat7/dumbgoat7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
