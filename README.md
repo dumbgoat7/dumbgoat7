@@ -1,4 +1,4 @@
-### Strolling down hell of programming languages
+### Strolling down hell of programming languages 💀
 
 ![](https://i.imgur.com/0kvtMLE.gif)
 <!--
